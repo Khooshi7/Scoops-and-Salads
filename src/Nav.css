@@ -1,0 +1,78 @@
+.navbar {
+  background-color: #ffffff;
+  color: #fff;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 20px;
+  border-bottom: 1px solid #78494c;
+  
+}
+
+
+
+.brand {
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  font-size: 24px;
+  font-weight: bold;
+  letter-spacing: 1px;
+  text-transform: uppercase;
+  margin-left: 5px;
+  color: #78494c;
+
+}
+
+.nav-links {
+  list-style: none;
+  margin: 0;
+  padding-right: 10px;
+  display: flex;
+  margin-right: 10px;
+}
+
+.nav-links li {
+  margin-right: 30px;
+}
+
+.nav-links li:last-child {
+  margin-right: 0;
+}
+
+.nav-links li a {
+  text-decoration: none;
+  color: #78494c;
+  font-size: 18px;
+  transition: color 0.3s;
+  margin-right: 15px;
+  transition: font-weight 0.3s ease; /* Add transition for smooth effect */
+
+
+}
+
+.nav-links a:hover {
+  color: #78494c;
+  font-weight: bold;
+
+
+}
+
+.nav-links a::after{
+  content: ''; /* Add a pseudo-element */
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  width: 0; /* Initially no width */
+  height: 2px;
+  background-color: white;
+  transition: width 0.5s ease-in-out; /* Transition for width only */
+
+}
+
+.brand:hover {
+  transform: scale(1.1);
+  transition-duration: 0.5s; /* Zoom in by 10% on hover */
+}
+
+
+
+

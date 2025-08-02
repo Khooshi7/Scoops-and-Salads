@@ -1,0 +1,24 @@
+.container {
+  position: relative;
+}
+
+
+.welcome-message {
+  background-color: white;
+  margin-top: 275px;
+  margin-left: 625px;
+
+}
+
+@keyframes slideUp {
+  from {
+    transform: translateY(100%);
+  }
+  to {
+    transform: translateY(0);
+  }
+}
+
+
+
+

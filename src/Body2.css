@@ -1,0 +1,58 @@
+.grid-container {
+    display: grid;
+    grid-template-columns: repeat(10, 1fr); /* 2 columns with equal width */
+    gap: 20px; /* Gap between grid items */
+    padding: 2%;
+    margin-right: 20px;
+    margin-left: 20px;
+    overflow-x: auto;
+    margin-top: 30px;
+    margin-bottom: 30px;
+
+
+  }
+  
+  .grid-item {
+    position: relative;
+    flex: 0 0 auto;
+
+  }
+
+  
+  .grid-item i {
+    transition: transform 0.5s;
+    margin-right: 5px;
+    font-size: 40px;
+    transition: box-shadow 0.3s ease; /* Smooth transition for the box-shadow */
+    /* Adjust as needed to add space between image and text */
+
+  }
+ button{
+  border-radius: 50%;
+  border-color: #7d4d5a;
+  width:100px;
+  height: 100px;
+  overflow: hidden;
+  background-color: rgb(255, 253, 253); /* Make the button circular */
+ }
+  
+  .grid-item i{
+    color:rgb(125, 77, 90) ;
+  }
+  
+ button:hover {
+    transform: scale(1.1);
+    box-shadow: rgba(125, 77, 90, 0.16) 0px 3px 3px, rgba(125, 77,  90, 0.23)  0px 3px 3px;
+    /* Show overlay on hover */
+    
+  }
+
+ .info{
+  margin-left: 20px;
+  margin-right: 20px;
+  padding-left: 30px;
+  padding-right: 30px;
+ }
+ 
+
+
