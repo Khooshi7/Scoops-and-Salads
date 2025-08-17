@@ -1,0 +1,43 @@
+{
+  "files": {
+    "main.css": "/Scoops-and-Salads/static/css/main.12cb61e6.css",
+    "main.js": "/Scoops-and-Salads/static/js/main.4e12f9ab.js",
+    "static/js/453.f0e33eac.chunk.js": "/Scoops-and-Salads/static/js/453.f0e33eac.chunk.js",
+    "static/media/chococookie.jpeg": "/Scoops-and-Salads/static/media/chococookie.8a9ab7931cc4b7154351.jpeg",
+    "static/media/southwestsalad.webp": "/Scoops-and-Salads/static/media/southwestsalad.6ff3f6e9cdcd2cb63614.webp",
+    "static/media/nachos.jpeg": "/Scoops-and-Salads/static/media/nachos.1ba76a5a4a3a26eb39ba.jpeg",
+    "static/media/caprese.jpeg": "/Scoops-and-Salads/static/media/caprese.7ce6dc6db637e0dce605.jpeg",
+    "static/media/humwrap.jpeg": "/Scoops-and-Salads/static/media/humwrap.adbd90d8febb365bde38.jpeg",
+    "static/media/thai curry.jpeg": "/Scoops-and-Salads/static/media/thai curry.23f1643216af3305d983.jpeg",
+    "static/media/Beef-Stir-Fry-.jpeg": "/Scoops-and-Salads/static/media/Beef-Stir-Fry-.d905224a8cb955ef4a08.jpeg",
+    "static/media/zucchini.jpeg": "/Scoops-and-Salads/static/media/zucchini.d08924e7cbfd27575abf.jpeg",
+    "static/media/bananabread.jpeg": "/Scoops-and-Salads/static/media/bananabread.9572b4967aa0d837e97c.jpeg",
+    "static/media/quinosalad.jpeg": "/Scoops-and-Salads/static/media/quinosalad.6cac293d27a6ee270f38.jpeg",
+    "static/media/tomsoup.jpeg": "/Scoops-and-Salads/static/media/tomsoup.2084cf91d05101f96e8c.jpeg",
+    "static/media/tart.jpeg": "/Scoops-and-Salads/static/media/tart.527a923ab9120b2bbab3.jpeg",
+    "static/media/mousseava.jpeg": "/Scoops-and-Salads/static/media/mousseava.00f9dbd1c3eb941643e0.jpeg",
+    "static/media/caramel.jpeg": "/Scoops-and-Salads/static/media/caramel.45b51afff3d1bf7a3da8.jpeg",
+    "static/media/mac.jpeg": "/Scoops-and-Salads/static/media/mac.7fe17930e2e1360aac89.jpeg",
+    "static/media/tikkamasala.jpeg": "/Scoops-and-Salads/static/media/tikkamasala.123a403df300f3e55645.jpeg",
+    "static/media/mushsoup.jpeg": "/Scoops-and-Salads/static/media/mushsoup.841c0d4d4e40a4063498.jpeg",
+    "static/media/unicorn.jpeg": "/Scoops-and-Salads/static/media/unicorn.53be389d1454cdfca3f5.jpeg",
+    "static/media/eggcurry.jpeg": "/Scoops-and-Salads/static/media/eggcurry.bde2a7a28d8ef0d38c36.jpeg",
+    "static/media/cheeseblue.jpeg": "/Scoops-and-Salads/static/media/cheeseblue.692ab248d98961521fd2.jpeg",
+    "static/media/sushi.jpeg": "/Scoops-and-Salads/static/media/sushi.dd44c78fa40f527e4ddc.jpeg",
+    "static/media/jungle.webp": "/Scoops-and-Salads/static/media/jungle.e01698c08c43d2d22e94.webp",
+    "static/media/sunshine.jpeg": "/Scoops-and-Salads/static/media/sunshine.859f773aca9e15cb9aef.jpeg",
+    "static/media/coconutice.webp": "/Scoops-and-Salads/static/media/coconutice.69a2e226ca68168f6ad4.webp",
+    "static/media/cookiecream.jpeg": "/Scoops-and-Salads/static/media/cookiecream.f6a64fd1044d22774dba.jpeg",
+    "static/media/pizza.jpeg": "/Scoops-and-Salads/static/media/pizza.b4851add0717a0d3db21.jpeg",
+    "static/media/Risotto.jpeg": "/Scoops-and-Salads/static/media/Risotto.d01523517b1c43e0b626.jpeg",
+    "static/media/lentilsoup.jpeg": "/Scoops-and-Salads/static/media/lentilsoup.286f40d4b60480d9915b.jpeg",
+    "index.html": "/Scoops-and-Salads/index.html",
+    "main.12cb61e6.css.map": "/Scoops-and-Salads/static/css/main.12cb61e6.css.map",
+    "main.4e12f9ab.js.map": "/Scoops-and-Salads/static/js/main.4e12f9ab.js.map",
+    "453.f0e33eac.chunk.js.map": "/Scoops-and-Salads/static/js/453.f0e33eac.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.12cb61e6.css",
+    "static/js/main.4e12f9ab.js"
+  ]
+}
