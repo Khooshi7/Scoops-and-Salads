@@ -8,7 +8,7 @@
   .left {
     flex: 1;
     padding: 20px;
-    background-color: rgba(235, 235, 235, 0.45);
+    background-color: rgba(255, 255, 255, 0.45);
     justify-content: center;
   }
   
@@ -65,4 +65,10 @@
     max-width: 300px;
     height: auto;
   }
+
+  .right img:nth-of-type(2) {
+  max-width: 400px;
+  height: auto;
+}
+
   
