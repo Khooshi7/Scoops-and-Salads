@@ -1,17 +1,17 @@
 import React from "react"
 import "./Body.css"
 import { useState, useEffect } from 'react';
+import slide1 from "./photos/slide1.jpeg";
+import slide2 from "./photos/slide2.jpeg";
+import slide3 from "./photos/slide3.jpeg";
+
+
 
 function Body()
 {
   const [currentSlide, setCurrentSlide] = useState(0);
-  const slides = [
-   "./slide1.jpeg",
-   "./slide2.jpeg",
-   "./slide3.jpeg"
+  const slides = [slide1, slide2, slide3];
 
-    // Add more image URLs here
-  ];
 
   useEffect(() => {
     const interval = setInterval(() => {
