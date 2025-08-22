@@ -1,6 +1,7 @@
 import React from 'react';
 import "./Body3.css"
-//mport image1 from "./photos/.jpeg"
+import image1 from "./photos/logo1.png"
+import image2 from "./photos/cooking.jpg"
 
 
 
@@ -16,8 +17,8 @@ function Bodythree() {
         <button>Learn More!</button>
       </div>
       <div className="right">
-        <img src="" alt="1" />
-        <img src="image4.jpg" alt="2" />
+        <img src={image1} alt="1" />
+        <img src={image2} alt="2" />
       </div>
     </div>
   );
